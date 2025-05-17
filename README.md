@@ -35,7 +35,7 @@ Through this review process, I've identified these areas for continued learning:
 
 * csAwesome: [https://runestone.academy/ns/books/published/csawesome/index.html]
 * Video Break Down: [https://www.youtube.com/watch?v=XB1h9mJIjQc] (For 2026 csA, this video is outdated)
-* Pickcode: [Pickcode.io]
+* Pickcode: [https://pickcode.io]
 
 ## Future Plans
 
