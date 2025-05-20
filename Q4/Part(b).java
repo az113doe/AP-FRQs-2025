@@ -3,7 +3,7 @@ public boolean clearPair(int row, int col) {
 
     for (int i = col + 1; i < puzzle[row].length; i++) {
         if (puzzle[row][i] == val || puzzle[row][c] + value == 10) {
-            puzzle[row][cpl] = 0;
+            puzzle[row][col] = 0;
             puzzle[row][i] = 0;
             return true;
         }
