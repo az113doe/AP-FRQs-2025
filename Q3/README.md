@@ -23,4 +23,3 @@ Using of while loop on part(b)
 ### What I learned from revisiting this problem:
 
 * While loop make a lot more sense for this problem
-* 
